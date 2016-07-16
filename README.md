@@ -20,9 +20,9 @@ We are generally interested in:
 - Turn-key software framework/stack for constrained IoT devices
 - Memory management strategies
 
-#### Break
+### Break
 
-#### 15:00-16:30 CoAP implementation experiences
+### 15:00-16:30 CoAP implementation experiences
 
 - Experience implementing CoAP
    - Erbium (Matthias Kovatsch)
@@ -56,7 +56,7 @@ Experience with data formats and their implementations
 - Robust (ROHC) vs. area context (6Lo) vs. static (SCHC) header
   compression (Alex, Krishna?)
 
-#### Security
+### Security
 
 - Crypto infrastructure (Crypto Provider API), hardware support
 - Protocols on top of that
