@@ -22,7 +22,7 @@ We are generally interested in:
 
 ### Break
 
-### 15:00-16:30 CoAP implementation experiences
+### 15:00-16:15 CoAP implementation experiences
 
 - Experience implementing CoAP
    - Erbium (Matthias Kovatsch)
@@ -31,7 +31,10 @@ We are generally interested in:
 - demo: RIOT+Microcoap (Sebastian)
 - discuss Experience using it in the application's setting, APIs... "thinking in application categories"...
 
-### Web of Things
+### Break
+
+### 16:35 Web of Things
+
 - Thing-to-thing intro (vs. funnel everything through China)
 - Things as servers + drive interaction as a client
 
@@ -41,7 +44,6 @@ How do we structure the interfaces offered by our devices?
 - Structuring implementations around Hypermedia controls
 - Klaus/Michael -> Coral/HSML (Michael)
 
-### Break
 
 ### ~17:00- Data formats
 
@@ -63,7 +65,7 @@ Experience with data formats and their implementations
     - tinydtls (Olaf?)
     - object security (Kepeng Li? Francesca?)
 - Application support (including authorization?)
-- Lifecycle model; Software updates? (Kaspar???)
+- Lifecycle model; Software updates/OTA (Ludwig)
 
 ### Flex time, wrapup
 
