@@ -31,7 +31,7 @@ We are generally interested in:
 - demo: RIOT+Microcoap (Sebastian)
 - discuss Experience using it in the application's setting, APIs... "thinking in application categories"...
 
-#### Web of Things
+### Web of Things
 - Thing-to-thing intro (vs. funnel everything through China)
 - Things as servers + drive interaction as a client
 
